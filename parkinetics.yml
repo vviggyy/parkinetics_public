@@ -1,0 +1,20 @@
+# conda env create -f parkinetics.yml
+name: parkinetics
+
+channels:
+  - default 
+
+dependencies:
+  - numpy
+  - pandas
+  - pytorch
+  - tensorflow
+  - matplotlib
+  - scipy
+  - seaborn
+  - scikit-learn
+  - tqdm
+  - PyWavelets
+  - pip #for tsfel
+  - pip:
+    - tsfel

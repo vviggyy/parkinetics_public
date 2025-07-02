@@ -1,0 +1,6 @@
+data/multid/2_120224_bkbrush_1.csv
+data/brush/cz_091624_bk/cz_091624_bkbrush_1.csv
+data/brush/cz_091624_bk/cz_091624_bkbrush_2.csv
+data/brush/cz_091624_bk/cz_091624_bkbrush_3.csv
+data/brush/cz_091624_bk/cz_091624_bkbrush_4.csv
+data/brush/cz_091624_bk/cz_091624_bkbrush_5.csv

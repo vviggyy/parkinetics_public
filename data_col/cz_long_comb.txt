@@ -1,0 +1,6 @@
+data/comb/cz_long/c_cz_100724_norm1.csv
+data/comb/cz_long/c_cz_102424_norm1.csv
+data/comb/cz_long/cz_102524_normcomb_1.csv
+data/comb/cz_long/cz_102824_normcomb_1.csv
+data/comb/cz_long/cz_110824_comb_1.csv
+data/comb/cz_long/cz_111024_comb_1.csv

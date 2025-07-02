@@ -1,0 +1,4 @@
+data\TEMP_PD_TAPPING_11-25\160_112524_bkbrush_1.csv
+data\TEMP_PD_TAPPING_11-25\160_112524_bkbrush_2.csv
+data/brush/aa_091524_norm/aa_091524_normbrush_3.csv
+data/brush/aa_091524_norm/aa_091524_normbrush_4.csv

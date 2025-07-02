@@ -1,0 +1,3 @@
+data/tapping/mz_102924_bk/mz_102924_bktapping_1.txt
+data/tapping/mz_102924_bk/mz_102924_bktapping_2.txt
+data/tapping/mz_102924_bk/mz_102924_bktapping_3.txt

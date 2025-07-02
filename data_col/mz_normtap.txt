@@ -1,0 +1,3 @@
+data/tapping/mz_102924_norm/mz_102924_normtapping_1.txt
+data/tapping/mz_102924_norm/mz_102924_normtapping_2.txt
+data/tapping/mz_102924_norm/mz_102924_normtapping_3.txt
