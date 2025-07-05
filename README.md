@@ -3,6 +3,7 @@ NOTE: This repository is a display (public) copy of a private team repo. Sensiti
 * Matthew Farah
 * Arihant Singh
 * Nana Osei-Owusu
+
 Other team members:
 * Chloe Zhang
 * Ramya Palani
