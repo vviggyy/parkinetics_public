@@ -1,9 +1,10 @@
-NOTE: This repository is a display (public) copy of a private team repo. Sensitive data has been removed. Contributors:
+NOTE: This repository is a display (public) copy of a private team repo. Sensitive data has been removed. Contributors to this repo:
 * Viggy Vanchinathan (Team Lead)
 * Matthew Farah
 * Arihant Singh
-* Chloe Zhang
 * Nana Osei-Owusu
+Other team members:
+* Chloe Zhang
 * Ramya Palani
 * Roma Desai 
 
