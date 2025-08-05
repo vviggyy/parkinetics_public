@@ -1,13 +1,14 @@
-NOTE: This repository is a display (public) copy of a private team repo. Sensitive data has been removed. Contributors to this repo:
+NOTE: This repository is a display (public) copy of a private team repo. Sensitive data have been removed. Contributors to this repo:
 * Viggy Vanchinathan (Team Lead)
 * Matthew Farah
 * Arihant Singh
 * Nana Osei-Owusu
+* Chloe Zhang
 
 Other team members:
-* Chloe Zhang
 * Ramya Palani
-* Roma Desai 
+* Roma Desai
+* Jaya Hamkins
 
 # parkinetics
 
